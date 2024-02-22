@@ -1,0 +1,22 @@
+[
+    {
+        "label": "grow lights 1",
+        "initialState": 1,
+        "pinNumber": 29
+    },
+    {
+        "label": "grow lights 2",
+        "initialState": 1,
+        "pinNumber": 31
+    },
+    {
+        "label": "heater",
+        "initialState": 1,
+        "pinNumber": 26
+    },
+    {
+        "label": "fan",
+        "initialState": 1,
+        "pinNumber": 24
+    }
+]
